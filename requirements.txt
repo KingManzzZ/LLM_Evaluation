@@ -1,0 +1,12 @@
+flask
+openai
+transformers
+torch
+sentence-transformers
+scikit-learn
+numpy
+python-dotenv
+jieba
+tiktoken
+pandas
+pyarrow
