@@ -1,0 +1,4502 @@
+[
+    {
+        "rowIdx": 0,
+        "questions": "该物品用气泡包装纸包着。,answer the cause",
+        "options": [
+            "A:它很易碎。",
+            "B:它很小。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 1,
+        "questions": "我掏空了口袋。,answer the effect",
+        "options": [
+            "A:我找到了一张票根。",
+            "B:我找到了一件武器。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 2,
+        "questions": "白蚁入侵了这所房子。,answer the effect",
+        "options": [
+            "A:白蚁从房子里消失了。",
+            "B:白蚁吃穿了房子里的木头。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 3,
+        "questions": "旅客到达边境。,answer the effect",
+        "options": [
+            "A:巡逻员检查了他们的护照。",
+            "B:巡逻人员指控他们走私。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 4,
+        "questions": "办公室关门了。,answer the cause",
+        "options": [
+            "A:那是个假期。",
+            "B:那是个夏天。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 5,
+        "questions": "这个女孩精疲力竭。,answer the cause",
+        "options": [
+            "A:她玩了跳棋。",
+            "B:她跳了绳。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 6,
+        "questions": "那女人排队的位置没有了。,answer the cause",
+        "options": [
+            "A:越来越多的人开始排队。",
+            "B:她走出了队外。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 7,
+        "questions": "那女孩捏了捏鼻子。,answer the cause",
+        "options": [
+            "A:婴儿在围嘴上流口水。",
+            "B:婴儿弄脏了尿布。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 8,
+        "questions": "乐队演奏了他们的热门歌曲。,answer the effect",
+        "options": [
+            "A:观众随着音乐拍手。",
+            "B:观众礼貌地沉默着。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 9,
+        "questions": "这个女孩想感谢她的数学老师。,answer the effect",
+        "options": [
+            "A:那个女孩放学后被留堂了。",
+            "B:这个女孩给老师带来了一个苹果。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 10,
+        "questions": "年轻的露营者们感到害怕。,answer the cause",
+        "options": [
+            "A:他们的营地顾问给他们讲了一个鬼故事。",
+            "B:他们在营火上烤了棉花糖。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 11,
+        "questions": "那人的头撞了一下。,answer the effect",
+        "options": [
+            "A:他陷入了沉思。",
+            "B:他得了脑震荡。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 12,
+        "questions": "我的支票被拒付了。,answer the cause",
+        "options": [
+            "A:我的银行帐户是空的。",
+            "B:我加薪了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 13,
+        "questions": "该男子的电子邮件收件箱中充斥着垃圾邮件。,answer the effect",
+        "options": [
+            "A:他删除了垃圾邮件。",
+            "B:他群发了电子邮件。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 14,
+        "questions": "水手被隔离了。,answer the cause",
+        "options": [
+            "A:他接触了这种疾病。",
+            "B:他从疾病中康复了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 15,
+        "questions": "这个女孩记住了密码。,answer the cause",
+        "options": [
+            "A:她背下来给自己听了。",
+            "B:她忘了写下来。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 16,
+        "questions": "我把水倒进了玻璃杯中。,answer the effect",
+        "options": [
+            "A:这水解了我的渴。",
+            "B:玻璃杯变满了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 17,
+        "questions": "他的朋友结束讲话的时候，那个人保持着沉默。,answer the cause",
+        "options": [
+            "A:他想支持他的朋友。",
+            "B:他在思考他朋友的话。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 18,
+        "questions": "这次事故是我的错。,answer the effect",
+        "options": [
+            "A:我感到内疚。",
+            "B:我起诉了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 19,
+        "questions": "链条破裂了。,answer the cause",
+        "options": [
+            "A:链条缠绕在轮胎上。",
+            "B:链条中有一节断开了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 20,
+        "questions": "这对夫妇决定妥协。,answer the cause",
+        "options": [
+            "A:他们厌倦了争论。",
+            "B:他们避免讨论这个问题。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 21,
+        "questions": "该名妇女决定竞选公职。,answer the effect",
+        "options": [
+            "A:她雇用了一位竞选策划人。",
+            "B:她在法庭上作证。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 22,
+        "questions": "该名男子预计他的旅途中的天气会很冷。,answer the effect",
+        "options": [
+            "A:他把保暖的衣服装进行李箱里。",
+            "B:他带着一个大行李箱旅行。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 23,
+        "questions": "学生知道这道问题的答案。,answer the effect",
+        "options": [
+            "A:他举起了手。",
+            "B:它偷懒了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 24,
+        "questions": "这个男人的眼睛流泪了。,answer the cause",
+        "options": [
+            "A:他的眼睛进灰了。",
+            "B:他戴上了护目镜。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 25,
+        "questions": "这位玩家连续赢得了五场比赛。,answer the effect",
+        "options": [
+            "A:她的对手指责她作弊。",
+            "B:她的对手为她感到难过。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 26,
+        "questions": "老师撕毁了这位学生的试卷。,answer the cause",
+        "options": [
+            "A:他抓住了这位学生作弊。",
+            "B:学生的答案是错误的。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 27,
+        "questions": "我讲话停了下来了。,answer the cause",
+        "options": [
+            "A:我失声了。",
+            "B:我气喘吁吁。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 28,
+        "questions": "冷冻食品解冻了。,answer the cause",
+        "options": [
+            "A:我把它放进了微波炉里。",
+            "B:我用保鲜膜盖住了它。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 29,
+        "questions": "员工假装生病。,answer the cause",
+        "options": [
+            "A:他得了胃痉挛。",
+            "B:他想休息一天。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 30,
+        "questions": "那女孩落在游泳池里。,answer the cause",
+        "options": [
+            "A:她在泳池甲板上奔跑。",
+            "B:她跳下了跳水板。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 31,
+        "questions": "电影票卖完了。,answer the cause",
+        "options": [
+            "A:这是电影的首映日。",
+            "B:这部电影的评论不佳。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 32,
+        "questions": "该男子减了肥。,answer the effect",
+        "options": [
+            "A:人们孤立他。",
+            "B:人们称赞他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 33,
+        "questions": "女孩的手起了水泡。,answer the cause",
+        "options": [
+            "A:她打了一封信。",
+            "B:她爬上了一根绳子。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 34,
+        "questions": "马戏团表演者在骑独轮车时玩杂耍。,answer the effect",
+        "options": [
+            "A:观众惊讶地欢呼。",
+            "B:杂技演员从空中飞来飞去。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 35,
+        "questions": "我失去了耐心。,answer the cause",
+        "options": [
+            "A:我的朋友一直让我等着。",
+            "B:我的朋友准时到达。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 36,
+        "questions": "交战国家要求和平。,answer the effect",
+        "options": [
+            "A:他们研发了核武器。",
+            "B:他们商定了一项条约。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 37,
+        "questions": "那人吃了安眠药。,answer the effect",
+        "options": [
+            "A:他变得昏昏欲睡。",
+            "B:他发烧了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 38,
+        "questions": "那女人撞到沙发上。,answer the effect",
+        "options": [
+            "A:沙发的腿松了。",
+            "B:她擦伤了膝盖。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 39,
+        "questions": "这个男孩挤气球。,answer the effect",
+        "options": [
+            "A:气球破了。",
+            "B:气球飞走了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 40,
+        "questions": "旅客入住了他们的旅馆房间。,answer the effect",
+        "options": [
+            "A:他们打开了行李箱。",
+            "B:他们去了机场。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 41,
+        "questions": "我咬了桃子。,answer the effect",
+        "options": [
+            "A:桃子坏了。",
+            "B:果汁溅出来了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 42,
+        "questions": "我的手发粘。,answer the cause",
+        "options": [
+            "A:我吃了甜甜圈。",
+            "B:我爱吃甜食。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 43,
+        "questions": "我推了门。,answer the effect",
+        "options": [
+            "A:门开了。",
+            "B:门锁上了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 44,
+        "questions": "激进分子抵制了这些产品。,answer the cause",
+        "options": [
+            "A:产品通过了质量保证测试。",
+            "B:产品是由童工制造出来的。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 45,
+        "questions": "我在墙上钻了一个洞。,answer the effect",
+        "options": [
+            "A:一只老鼠从洞里爬出来。",
+            "B:灰尘从孔中吹出。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 46,
+        "questions": "这个女人羡慕她的妹妹。,answer the cause",
+        "options": [
+            "A:她妹妹很高兴。",
+            "B:她妹妹离婚了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 47,
+        "questions": "我把酒洒在衬衫上了。,answer the effect",
+        "options": [
+            "A:我穿上了围裙。",
+            "B:我换了衬衫。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 48,
+        "questions": "收银员打开了收银机。,answer the cause",
+        "options": [
+            "A:顾客翻找着他的钱包。",
+            "B:顾客把钱递过来了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 49,
+        "questions": "街头音乐家吸引了一群人。,answer the effect",
+        "options": [
+            "A:人们给了他零钱。",
+            "B:他把人群赶走了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 50,
+        "questions": "小男孩向他的保姆哭了。,answer the cause",
+        "options": [
+            "A:他想念他的父母。",
+            "B:那是点心时间。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 51,
+        "questions": "飞行员的雷达发现了一场风暴。,answer the effect",
+        "options": [
+            "A:飞行员避开了风暴。",
+            "B:飞行员飞过了风暴。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 52,
+        "questions": "这棵树落叶了。,answer the effect",
+        "options": [
+            "A:叶子变色了。",
+            "B:叶子堆积在地面上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 53,
+        "questions": "这个男孩想恶作剧。,answer the effect",
+        "options": [
+            "A:他决定和妹妹玩纸牌游戏。",
+            "B:他决定对捉弄妹妹。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 54,
+        "questions": "这个孩子抱怨说他必须去洗手间。,answer the effect",
+        "options": [
+            "A:父亲给他喝了苏打水。",
+            "B:他的父亲把汽车停在了加油站。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 55,
+        "questions": "孩子将鱼食撒进水缸。,answer the effect",
+        "options": [
+            "A:鱼从水缸里跳了出来。",
+            "B:鱼游向了食物。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 56,
+        "questions": "女人的政治观点发生了变化。,answer the effect",
+        "options": [
+            "A:她换了党派。",
+            "B:她参与了抗议。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 57,
+        "questions": "浴室的水槽堵塞了。,answer the effect",
+        "options": [
+            "A:我打开水龙头。",
+            "B:我向水槽倒入了下水道清洁剂。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 58,
+        "questions": "乘客们下了火车。,answer the cause",
+        "options": [
+            "A:火车到达了车站。",
+            "B:火车鸣笛。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 59,
+        "questions": "该名男子按下信封的湿口。,answer the effect",
+        "options": [
+            "A:他在信封上盖了邮票。",
+            "B:他把信封密封好了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 60,
+        "questions": "朋友们失去了联系。,answer the cause",
+        "options": [
+            "A:他们享受彼此的陪伴。",
+            "B:他们搬去了不同的城市。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 61,
+        "questions": "会计师对公司的资金管理不善。,answer the effect",
+        "options": [
+            "A:她被解雇了。",
+            "B:她休了产假。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 62,
+        "questions": "我看着时钟。,answer the cause",
+        "options": [
+            "A:我听到时钟的滴答声。",
+            "B:我想查看时间。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 63,
+        "questions": "我的手紧缩起来。,answer the cause",
+        "options": [
+            "A:我手写了论文。",
+            "B:我和妻子牵了手。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 64,
+        "questions": "螺栓被拧紧了。,answer the cause",
+        "options": [
+            "A:我更换了螺栓。",
+            "B:我扭动了扳手。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 65,
+        "questions": "这对夫妇签了一份公寓租约。,answer the effect",
+        "options": [
+            "A:这对夫妇搬进了公寓。",
+            "B:市政府将该公寓判为危房。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 66,
+        "questions": "那个女人坐在门廊外面。,answer the cause",
+        "options": [
+            "A:她想看日落。",
+            "B:她以为自己看见了闪电。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 67,
+        "questions": "该男子在水中穿着救生衣。,answer the cause",
+        "options": [
+            "A:他不会游泳。",
+            "B:水很浅。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 68,
+        "questions": "那个女人在文字处理器中打了一个错字。,answer the effect",
+        "options": [
+            "A:她删除了文件。",
+            "B:她按下了退格键。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 69,
+        "questions": "这个女孩向她的朋友吹牛。,answer the cause",
+        "options": [
+            "A:她的成绩不好。",
+            "B:她比赛获胜了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 70,
+        "questions": "草坪是泥泞的。,answer the cause",
+        "options": [
+            "A:下了一夜的雨。",
+            "B:到处都是杂草。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 71,
+        "questions": "女人睡过头了。,answer the cause",
+        "options": [
+            "A:她在旅馆住了一晚。",
+            "B:她忘了设置闹钟。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 72,
+        "questions": "男人涂上了防晒霜。,answer the cause",
+        "options": [
+            "A:他坐在阴影里。",
+            "B:他去了海滩。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 73,
+        "questions": "研究人员证明了这一理论。,answer the effect",
+        "options": [
+            "A:研究人员撤回了这一理论。",
+            "B:大众接受了这一理论。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 74,
+        "questions": "比赛中的球迷嘘声高涨。,answer the cause",
+        "options": [
+            "A:游戏进入加时赛。",
+            "B:裁判做出了错误的判断。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 75,
+        "questions": "我在锁上输入了我的组合密码。,answer the effect",
+        "options": [
+            "A:我给它上锁了。",
+            "B:锁开了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 76,
+        "questions": "人群越来越多。,answer the effect",
+        "options": [
+            "A:父亲递给儿子一些钱。",
+            "B:父亲握住儿子的手。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 77,
+        "questions": "雪挡住了车道。,answer the effect",
+        "options": [
+            "A:我把雪聚成一个雪球。",
+            "B:我把雪铲开了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 78,
+        "questions": "皮划艇者划着桨。,answer the effect",
+        "options": [
+            "A:皮划艇划到了岸边。",
+            "B:皮划艇遇上了风浪。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 79,
+        "questions": "那女孩的自行车失控了。,answer the effect",
+        "options": [
+            "A:她松开了车把。",
+            "B:她撞上了篱笆。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 80,
+        "questions": "我打开了风扇。,answer the effect",
+        "options": [
+            "A:水洒在我的皮肤上。",
+            "B:我感到凉风拂过。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 81,
+        "questions": "冲浪者回到海滩。,answer the cause",
+        "options": [
+            "A:他们浑身湿透了。",
+            "B:他们看到了一条鲨鱼。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 82,
+        "questions": "我拉开了浴缸里的排水塞。,answer the effect",
+        "options": [
+            "A:水从浴缸中排出。",
+            "B:水溅到地板上。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 83,
+        "questions": "丈夫因欺骗妻子而感到内疚。,answer the effect",
+        "options": [
+            "A:他指责她不忠。",
+            "B:他向她坦白了他的不忠。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 84,
+        "questions": "海报上的墨水抹开了。,answer the cause",
+        "options": [
+            "A:我等着墨水变干。",
+            "B:我在海报上洒了水。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 85,
+        "questions": "孩子大叫着起来。,answer the cause",
+        "options": [
+            "A:他做了一个噩梦。",
+            "B:他弄湿了床。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 86,
+        "questions": "这个男孩把脚放在桌子上。,answer the effect",
+        "options": [
+            "A:父亲在桌旁坐下了。",
+            "B:父亲教育了他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 87,
+        "questions": "我的朋友朝我的方向转过头。,answer the cause",
+        "options": [
+            "A:我喊了他的名字。",
+            "B:我挥舞了双臂。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 88,
+        "questions": "政府压迫其公民。,answer the effect",
+        "options": [
+            "A:公民发动了叛乱。",
+            "B:公民登记投票。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 89,
+        "questions": "这个男孩在树林里迷路了。,answer the effect",
+        "options": [
+            "A:他搭了一个帐篷。",
+            "B:他尖叫求救。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 90,
+        "questions": "这女人出国旅行了。,answer the cause",
+        "options": [
+            "A:她想学习画画。",
+            "B:她想了解其他文化。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 91,
+        "questions": "这个男人嫉妒他的同事。,answer the cause",
+        "options": [
+            "A:他的同事得到了晋升。",
+            "B:他的同事工作到很晚。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 92,
+        "questions": "这男人目睹了外星人。,answer the cause",
+        "options": [
+            "A:他那时出现了幻觉。",
+            "B:他那时在冥想。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 93,
+        "questions": "那男人的头发变成了金色。,answer the cause",
+        "options": [
+            "A:他在头发里放了漂白剂。",
+            "B:他在头发里放了洗发水。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 94,
+        "questions": "艺术家创作了新作品。,answer the cause",
+        "options": [
+            "A:她批评了她以前的作品。",
+            "B:她感到一阵灵感。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 95,
+        "questions": "儿子离开了家。,answer the cause",
+        "options": [
+            "A:他被退伍。",
+            "B:他要去上大学。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 96,
+        "questions": "书从书架上掉了下来。,answer the cause",
+        "options": [
+            "A:架子上满是灰尘。",
+            "B:一场地震震动了书架。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 97,
+        "questions": "我家停电了。,answer the effect",
+        "options": [
+            "A:我打开了一盏灯。",
+            "B:我重置了断路器。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 98,
+        "questions": "我们坐了过山车。,answer the cause",
+        "options": [
+            "A:它看起来很吓人。",
+            "B:它看起来很有趣。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 99,
+        "questions": "爆米花的袋子开始发出爆裂声。,answer the cause",
+        "options": [
+            "A:我把黄油倒进了袋子里。",
+            "B:我用微波炉给它加了热。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 100,
+        "questions": "一棵树倒在电线上。,answer the effect",
+        "options": [
+            "A:附近停电了。",
+            "B:天气预报说有大风。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 101,
+        "questions": "演讲者发表了政治上不正确的评论。,answer the effect",
+        "options": [
+            "A:他使听众感到厌烦。",
+            "B:他冒犯了听众。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 102,
+        "questions": "我用针刺伤了自己。,answer the effect",
+        "options": [
+            "A:一滴汗从我脸上滴下来。",
+            "B:我的手指上形成了一滴血。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 103,
+        "questions": "鱼漂浮在水箱表面。,answer the cause",
+        "options": [
+            "A:它饿了。",
+            "B:它死了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 104,
+        "questions": "那人的声音听起来嘶哑了。,answer the cause",
+        "options": [
+            "A:他感冒了。",
+            "B:他戒烟了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 105,
+        "questions": "电梯门开了。,answer the cause",
+        "options": [
+            "A:电梯到达指定的楼层。",
+            "B:电梯卡在楼层间。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 106,
+        "questions": "少年溜出家门。,answer the cause",
+        "options": [
+            "A:他对他的父母撒了谎。",
+            "B:他的父母把他关了禁闭。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 107,
+        "questions": "浴室被淹了。,answer the cause",
+        "options": [
+            "A:马桶溢出了。",
+            "B:热水器坏了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 108,
+        "questions": "小狗呆在主人附近。,answer the cause",
+        "options": [
+            "A:主人给小狗戴上了项圈。",
+            "B:主人把小狗拴在狗绳上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 109,
+        "questions": "那人看见了他的倒影。,answer the cause",
+        "options": [
+            "A:他站在一棵大树下。",
+            "B:他站在平静的湖面上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 110,
+        "questions": "我错过了我女朋友的电话。,answer the effect",
+        "options": [
+            "A:我给她回了电话。",
+            "B:我与她共进晚餐。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 111,
+        "questions": "这家人搜查了附近。,answer the cause",
+        "options": [
+            "A:他们的狗离家出走了。",
+            "B:他们家丢失了昂贵的珠宝。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 112,
+        "questions": "当我呼出时，我看到了我的呼吸。,answer the cause",
+        "options": [
+            "A:天气很冷。",
+            "B:我的胸部感觉很紧。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 113,
+        "questions": "雇员们组成了一个工会。,answer the cause",
+        "options": [
+            "A:他们想要更好的工作条件。",
+            "B:他们的雇主提高了工资。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 114,
+        "questions": "我烤了一个苹果派。,answer the effect",
+        "options": [
+            "A:厨房弥漫着腐烂的气味。",
+            "B:厨房里弥漫着温暖的香气。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 115,
+        "questions": "那女人挣扎着走路。,answer the cause",
+        "options": [
+            "A:她穿着高跟鞋。",
+            "B:她脱下鞋子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 116,
+        "questions": "蒸汽从锅上升出。,answer the cause",
+        "options": [
+            "A:水煮沸了。",
+            "B:我盖上了锅盖。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 117,
+        "questions": "我所有的袜子都在洗衣房里。,answer the effect",
+        "options": [
+            "A:我穿着凉鞋。",
+            "B:我穿着靴子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 118,
+        "questions": "那位政治家的论点被认为是荒谬的。,answer the effect",
+        "options": [
+            "A:他失去了选民的支持。",
+            "B:他被指控腐败。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 119,
+        "questions": "每个人都不赞成这对夫妇的订婚。,answer the effect",
+        "options": [
+            "A:这对夫妇怀孕了。",
+            "B:这对夫妇私奔了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 120,
+        "questions": "这栋楼是献给这位百万富翁的。,answer the cause",
+        "options": [
+            "A:这位百万富翁希望把大楼拆掉。",
+            "B:这位百万富翁捐了钱来建造它。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 121,
+        "questions": "售货员指控那个女孩偷窃。,answer the cause",
+        "options": [
+            "A:售货员看到那个女孩把商品放在钱包里。",
+            "B:售货员帮助那个女孩找到她喜欢的钱包。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 122,
+        "questions": "这个国家向邻国宣战。,answer the effect",
+        "options": [
+            "A:士兵被派去战斗。",
+            "B:士兵们与家人团聚。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 123,
+        "questions": "法院维持了这项有争议的裁决。,answer the effect",
+        "options": [
+            "A:法庭前爆发了一场骚乱。",
+            "B:一对夫妇在法院门前交换了誓言。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 124,
+        "questions": "女孩闻到有东西烧焦了。,answer the cause",
+        "options": [
+            "A:她把饼干从罐子里拿出来。",
+            "B:她把饼干忘在烤箱里了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 125,
+        "questions": "大雨倾盆而下。,answer the effect",
+        "options": [
+            "A:暴风雨更猛烈了。",
+            "B:我冲了进去。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 126,
+        "questions": "大楼被疏散了。,answer the cause",
+        "options": [
+            "A:电梯停止运转。",
+            "B:火警响了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 127,
+        "questions": "父亲憎恨儿子酗酒。,answer the effect",
+        "options": [
+            "A:父亲给儿子买了一杯啤酒。",
+            "B:父亲把儿子赶出了家门。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 128,
+        "questions": "律师爬楼去她的办公室。,answer the cause",
+        "options": [
+            "A:秘书这天回家了。",
+            "B:电梯坏了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 129,
+        "questions": "那人对他的朋友很恼火。,answer the cause",
+        "options": [
+            "A:他的朋友打断了他。",
+            "B:他的朋友给他买了午餐。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 130,
+        "questions": "那个女孩把钱交给了收银员。,answer the effect",
+        "options": [
+            "A:收银员把找的钱给了那个女孩。",
+            "B:收银员忘了给那个女孩一张收据。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 131,
+        "questions": "那女人被放在轮椅上。,answer the cause",
+        "options": [
+            "A:她在一次事故中瘫痪了。",
+            "B:她被担架抬进了医院。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 132,
+        "questions": "市民们把国旗挂在家门外。,answer the cause",
+        "options": [
+            "A:这个国家正在纪念它的独立。",
+            "B:这个国家正面临经济困难。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 133,
+        "questions": "该队输掉了比赛。,answer the effect",
+        "options": [
+            "A:他们让他们的球迷失望了。",
+            "B:他们鼓舞了他们的球迷。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 134,
+        "questions": "我的朋友指出我的牙齿里塞了食物。,answer the effect",
+        "options": [
+            "A:我感到很尴尬。",
+            "B:我很自豪。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 135,
+        "questions": "这个男孩没有通过历史考试。,answer the cause",
+        "options": [
+            "A:他在课堂上认真听讲了。",
+            "B:他忘了学习。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 136,
+        "questions": "市中心的大楼倒塌了。,answer the cause",
+        "options": [
+            "A:一场地震袭击了这个城市。",
+            "B:这个城市的犯罪率上升了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 137,
+        "questions": "那男人的女朋友和他分手了。,answer the effect",
+        "options": [
+            "A:他恳求她再次接受他。",
+            "B:她把他介绍给她的父母。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 138,
+        "questions": "两个孩子同时伸手去取回球。,answer the effect",
+        "options": [
+            "A:球滚开了。",
+            "B:他们的头相撞了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 139,
+        "questions": "熊洗劫了垃圾桶。,answer the cause",
+        "options": [
+            "A:垃圾桶里有纸板。",
+            "B:垃圾桶的盖子没盖上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 140,
+        "questions": "男孩把铅笔磨光了。,answer the cause",
+        "options": [
+            "A:它很便宜。",
+            "B:它很钝。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 141,
+        "questions": "收银员拒绝给那女人退款。,answer the cause",
+        "options": [
+            "A:她丢了收据。",
+            "B:这件衣服不合适。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 142,
+        "questions": "我皮肤上的划痕很深。,answer the effect",
+        "options": [
+            "A:它很快愈合了。",
+            "B:它留下了一个疤痕。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 143,
+        "questions": "火车上的乘客奇怪地看着他。,answer the cause",
+        "options": [
+            "A:他盯着地面。",
+            "B:他在自言自语。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 144,
+        "questions": "孩子把面包屑留在了地板上。,answer the effect",
+        "options": [
+            "A:蚂蚁爬到了面包屑上。",
+            "B:孩子把面包收了起来。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 145,
+        "questions": "那个女人递给她的妹妹一张纸巾。,answer the cause",
+        "options": [
+            "A:女人的妹妹叠起了她的手。",
+            "B:女人的妹妹哭了起来。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 146,
+        "questions": "那人拿了薄荷。,answer the cause",
+        "options": [
+            "A:他的嘴唇裂开了。",
+            "B:他担心口臭。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 147,
+        "questions": "这对夫妇早早地离开去看演出。,answer the cause",
+        "options": [
+            "A:他们预计剧院周围会有堵车。",
+            "B:他们知道去剧院的路。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 148,
+        "questions": "那女人呆在家里没去上班。,answer the effect",
+        "options": [
+            "A:她的老板表扬了她。",
+            "B:她的同事帮她掩护。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 149,
+        "questions": "那人在维权人士的请愿书上签了名。,answer the cause",
+        "options": [
+            "A:他支持他们的事业。",
+            "B:他谴责他们疯了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 150,
+        "questions": "演员在演出前心慌。,answer the cause",
+        "options": [
+            "A:他有上台紧张症。",
+            "B:他记住了他的台词。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 151,
+        "questions": "我迷路了。,answer the effect",
+        "options": [
+            "A:我数了一下我的现金。",
+            "B:我展开了一张地图。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 152,
+        "questions": "成熟的果实在阳光下摇动。,answer the effect",
+        "options": [
+            "A:它被吃了。",
+            "B:它枯萎了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 153,
+        "questions": "汽车抛锚了。,answer the cause",
+        "options": [
+            "A:我转动了点火装置。",
+            "B:发动机过热。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 154,
+        "questions": "那人伤了背部。,answer the effect",
+        "options": [
+            "A:他去看精神病医生了。",
+            "B:他在床上呆了几天。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 155,
+        "questions": "我在壁炉里生了火。,answer the cause",
+        "options": [
+            "A:我没柴火了。",
+            "B:房子里很冷。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 156,
+        "questions": "那女人停止了慢跑。,answer the cause",
+        "options": [
+            "A:她一侧身体抽筋了。",
+            "B:她恢复了精力。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 157,
+        "questions": "我敲了邻居的门。,answer the effect",
+        "options": [
+            "A:我的邻居邀请我进来。",
+            "B:我的邻居离开了她的房子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 158,
+        "questions": "那女人沮丧地叹了口气。,answer the cause",
+        "options": [
+            "A:她丈夫误解了她的顾虑。",
+            "B:她丈夫与她吻别。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 159,
+        "questions": "老师表扬了学生。,answer the cause",
+        "options": [
+            "A:学生正确回答了问题。",
+            "B:学生犹豫着回答问题。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 160,
+        "questions": "那女人的鸡蛋用完了。,answer the effect",
+        "options": [
+            "A:她去了农场。",
+            "B:她去了超市。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 161,
+        "questions": "我遇到了一位老朋友。,answer the effect",
+        "options": [
+            "A:我向他透露了一个秘密。",
+            "B:我给了他一个拥抱。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 162,
+        "questions": "那女人避免去湖边。,answer the cause",
+        "options": [
+            "A:她钓到了一条鱼。",
+            "B:它看起来被污染了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 163,
+        "questions": "学生来上课时浑身湿透了。,answer the cause",
+        "options": [
+            "A:他的伞坏了。",
+            "B:他的自行车被偷了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 164,
+        "questions": "电脑屏幕上的光标移动了。,answer the cause",
+        "options": [
+            "A:用户单击了鼠标。",
+            "B:用户移动了鼠标。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 165,
+        "questions": "司机绕道而行。,answer the cause",
+        "options": [
+            "A:主干道上发生了一起事故。",
+            "B:她跟着前面的卡车。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 166,
+        "questions": "我把湿床单挂在户外晾衣绳上。,answer the effect",
+        "options": [
+            "A:床单干了。",
+            "B:床单染色了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 167,
+        "questions": "那女人戴上了她的墨镜。,answer the cause",
+        "options": [
+            "A:阳光很大。",
+            "B:她叫了一辆出租车。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 168,
+        "questions": "那人凝视着夜空。,answer the cause",
+        "options": [
+            "A:他希望那是夏天。",
+            "B:他认为它很漂亮。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 169,
+        "questions": "我感到筋疲力尽。,answer the effect",
+        "options": [
+            "A:我很早就上床睡觉了。",
+            "B:我熬夜了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 170,
+        "questions": "那人去找理发师。,answer the cause",
+        "options": [
+            "A:他正在长头发。",
+            "B:他的头发变长了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 171,
+        "questions": "这个男孩恶意地捉弄了他的新同学。,answer the cause",
+        "options": [
+            "A:这个男孩欢迎这个新同学。",
+            "B:这个男孩不喜欢这个新同学。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 172,
+        "questions": "我想喝一杯牛奶。,answer the cause",
+        "options": [
+            "A:我在吃饼干。",
+            "B:我在烤面包。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 173,
+        "questions": "天开始下雨了。,answer the effect",
+        "options": [
+            "A:司机打开了大前灯。",
+            "B:司机把车倒过来了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 174,
+        "questions": "大楼的停车场是空的。,answer the effect",
+        "options": [
+            "A:我把车停在街对面。",
+            "B:我把车停在入口附近。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 175,
+        "questions": "作者错过了提交草稿的最后期限。,answer the cause",
+        "options": [
+            "A:她犯了写作障碍。",
+            "B:她编辑了草稿。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 176,
+        "questions": "同事挂断了我的电话。,answer the cause",
+        "options": [
+            "A:我要求与主管谈话。",
+            "B:我提供了我的身份证号码。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 177,
+        "questions": "风吹过开着的窗户。,answer the effect",
+        "options": [
+            "A:门铃响了。",
+            "B:窗帘抖动了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 178,
+        "questions": "我家的电停了。,answer the cause",
+        "options": [
+            "A:我拔下台灯的插头。",
+            "B:我烧断了保险丝。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 179,
+        "questions": "举重运动员发出哼声。,answer the cause",
+        "options": [
+            "A:他在镜子里展示他的肌肉。",
+            "B:他把杠铃杆举过头顶。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 180,
+        "questions": "这个学生试图心算。,answer the effect",
+        "options": [
+            "A:他拿出了一个计算器。",
+            "B:他弄糊涂了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 181,
+        "questions": "婴儿睡着了。,answer the cause",
+        "options": [
+            "A:父亲换了婴儿的尿布。",
+            "B:父亲轻轻地摇动着婴儿。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 182,
+        "questions": "女孩把水气球扔向男孩。,answer the effect",
+        "options": [
+            "A:那男孩得了脑震荡。",
+            "B:男孩被淋湿了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 183,
+        "questions": "摄影师忘了用相机上的闪光灯。,answer the effect",
+        "options": [
+            "A:照片模糊不清。",
+            "B:照片上的每个人都拒绝微笑。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 184,
+        "questions": "我谢绝了生日聚会的邀请。,answer the cause",
+        "options": [
+            "A:我很孤独。",
+            "B:我不在城里。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 185,
+        "questions": "我锻炼了。,answer the cause",
+        "options": [
+            "A:我感到精力充沛。",
+            "B:我很害怕。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 186,
+        "questions": "我挤压了这个湿海绵。,answer the effect",
+        "options": [
+            "A:它浸湿了水。",
+            "B:水从中渗出。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 187,
+        "questions": "游客们乘坐渡轮去度假村。,answer the cause",
+        "options": [
+            "A:度假村已被预订好。",
+            "B:度假村在一个岛上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 188,
+        "questions": "这个少年有纹身。,answer the cause",
+        "options": [
+            "A:她害怕打针。",
+            "B:她想叛逆。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 189,
+        "questions": "一辆陌生的车停在我家外面。,answer the effect",
+        "options": [
+            "A:我开始起疑了。",
+            "B:我给警察打了电话。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 190,
+        "questions": "罪犯自首了。,answer the cause",
+        "options": [
+            "A:证据指向了他。",
+            "B:没有不利于他的证据。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 191,
+        "questions": "那个魁梧的人决定减肥。,answer the effect",
+        "options": [
+            "A:他戒了甜食。",
+            "B:他避免咖啡因。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 192,
+        "questions": "女孩踩在了冰上。,answer the effect",
+        "options": [
+            "A:她滑倒了。",
+            "B:她颤抖着。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 193,
+        "questions": "那女人眼睛下面有眼袋。,answer the cause",
+        "options": [
+            "A:她熬夜了。",
+            "B:她把儿子安顿睡觉了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 194,
+        "questions": "熔岩从火山中流出。,answer the cause",
+        "options": [
+            "A:火山爆发了。",
+            "B:火山处于休眠状态。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 195,
+        "questions": "那女人穿上鞋子。,answer the cause",
+        "options": [
+            "A:她认识聚会上的每个人。",
+            "B:她想离开聚会。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 196,
+        "questions": "我向收费站服务员付了费。,answer the effect",
+        "options": [
+            "A:她让我通过了收费站。",
+            "B:她在收费站把我拦下了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 197,
+        "questions": "执行官破产了。,answer the cause",
+        "options": [
+            "A:他卖掉了公司的股票。",
+            "B:他挥霍了他的财产。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 198,
+        "questions": "那人去看医生了。,answer the cause",
+        "options": [
+            "A:医生正在休假。",
+            "B:那人感到不适。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 199,
+        "questions": "我从窗户离开卧室。,answer the cause",
+        "options": [
+            "A:房子着火了。",
+            "B:房子是空的。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 200,
+        "questions": "男孩的手指变得皱了。,answer the cause",
+        "options": [
+            "A:他洗了很长时间澡。",
+            "B:他用肥皂打手。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 201,
+        "questions": "我吐出牛奶。,answer the cause",
+        "options": [
+            "A:牛奶尝起来很酸。",
+            "B:我的嘴是干的。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 202,
+        "questions": "我错过了公共汽车。,answer the effect",
+        "options": [
+            "A:我很早就去上班了。",
+            "B:我上班迟到了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 203,
+        "questions": "卡车与汽车相撞。,answer the effect",
+        "options": [
+            "A:卡车加速了。",
+            "B:汽车被撞坏了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 204,
+        "questions": "这支队伍以对他们有利的方式操纵了比赛。,answer the effect",
+        "options": [
+            "A:他们赢了。",
+            "B:他们退出了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 205,
+        "questions": "汽水瓶发出嘘声。,answer the cause",
+        "options": [
+            "A:我把瓶子翻了过来。",
+            "B:我拧掉了帽子。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 206,
+        "questions": "那个男孩被锁在屋外。,answer the effect",
+        "options": [
+            "A:他从一扇开着的窗户爬进来。",
+            "B:他爬上屋顶。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 207,
+        "questions": "门铃响了。,answer the effect",
+        "options": [
+            "A:来访者轻拍门上的门环。",
+            "B:那女人从门上的钥匙孔里窥视着。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 208,
+        "questions": "那人弄脏了他的西装。,answer the effect",
+        "options": [
+            "A:他干洗了。",
+            "B:他把它挂在壁橱里。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 209,
+        "questions": "女孩挤了牙膏管。,answer the effect",
+        "options": [
+            "A:牙膏从管子里喷出来。",
+            "B:女孩吐出牙膏。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 210,
+        "questions": "战争造成的平民死亡人数激增。,answer the effect",
+        "options": [
+            "A:和平主义者举行了抗议。",
+            "B:和平主义者举行了游行。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 211,
+        "questions": "那个女孩把丝带从头发上拉了出来。,answer the cause",
+        "options": [
+            "A:她系上丝带。",
+            "B:丝带看起来很幼稚。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 212,
+        "questions": "那男人做了整形手术。,answer the effect",
+        "options": [
+            "A:他老了。",
+            "B:他看起来更年轻。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 213,
+        "questions": "一只小鸡从鸡蛋里出来。,answer the cause",
+        "options": [
+            "A:鸡蛋孵化了。",
+            "B:我把鸡蛋打碎了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 214,
+        "questions": "囚犯饿死了。,answer the effect",
+        "options": [
+            "A:他死了。",
+            "B:他逃走了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 215,
+        "questions": "那人在梯子上失去了平衡。,answer the effect",
+        "options": [
+            "A:他爬上梯子。",
+            "B:他从梯子上摔下来了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 216,
+        "questions": "孩子打嗝了。,answer the cause",
+        "options": [
+            "A:他大喝了一口苏打水。",
+            "B:他打开汽水罐。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 217,
+        "questions": "一股冷风从窗户进来。,answer the effect",
+        "options": [
+            "A:我放松了。",
+            "B:我颤抖。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 218,
+        "questions": "这个学生获得了上大学的奖学金。,answer the cause",
+        "options": [
+            "A:她的同学尊敬她。",
+            "B:她成绩很好。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 219,
+        "questions": "那个女孩打趣那个男孩。,answer the cause",
+        "options": [
+            "A:她住在他隔壁。",
+            "B:她迷恋上了他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 220,
+        "questions": "饥饿的流浪汉偷走了食物。,answer the cause",
+        "options": [
+            "A:他煽动怜悯。",
+            "B:他没有钱。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 221,
+        "questions": "我打电话给我的朋友聊天。,answer the cause",
+        "options": [
+            "A:我想要隐私。",
+            "B:我感到孤独。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 222,
+        "questions": "那人向我伸出手来。,answer the effect",
+        "options": [
+            "A:我握了握他的手。",
+            "B:我打了他一耳光。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 223,
+        "questions": "我躲开了。,answer the cause",
+        "options": [
+            "A:烟火在空中燃放。",
+            "B:飞盘朝我的头飞去。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 224,
+        "questions": "那个女孩咬了指甲。,answer the cause",
+        "options": [
+            "A:她很担心。",
+            "B:她很惊讶。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 225,
+        "questions": "我翻了一页日历。,answer the cause",
+        "options": [
+            "A:我在日历上标了一个约会。",
+            "B:这是一个新的月的开始。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 226,
+        "questions": "丈夫发现他的妻子有外遇。,answer the effect",
+        "options": [
+            "A:他解雇了他的律师。",
+            "B:他提出离婚。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 227,
+        "questions": "那个女孩掉了橡皮球。,answer the effect",
+        "options": [
+            "A:球弹了起来。",
+            "B:球闪闪发光。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 228,
+        "questions": "这个女孩考试犯了一个错误。,answer the effect",
+        "options": [
+            "A:她猜到了答案。",
+            "B:她抹去了她的答案。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 229,
+        "questions": "那个选手扭倒了对手。,answer the effect",
+        "options": [
+            "A:他的对手抓住了传球。",
+            "B:他的对手击倒了地面。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 230,
+        "questions": "我从藤蔓上摘了西红柿。,answer the cause",
+        "options": [
+            "A:他们成熟了。",
+            "B:我给他们浇水。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 231,
+        "questions": "那人想表现得浪漫。,answer the effect",
+        "options": [
+            "A:他和前女友共进午餐。",
+            "B:他给他女朋友买了巧克力。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 232,
+        "questions": "温度计中的汞上升。,answer the cause",
+        "options": [
+            "A:我把温度计掉了。",
+            "B:天气变暖和了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 233,
+        "questions": "龙卷风穿过了整个城镇。,answer the effect",
+        "options": [
+            "A:法院的屋顶被吹掉了。",
+            "B:公路可能引起危险地结冰了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 234,
+        "questions": "这个学生接受了辅导。,answer the effect",
+        "options": [
+            "A:他的成绩提高了。",
+            "B:他在考试中作弊了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 235,
+        "questions": "我感觉很舒服。,answer the cause",
+        "options": [
+            "A:我跪在地上。",
+            "B:我把自己裹在毯子里。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 236,
+        "questions": "我把石头磨光了。,answer the effect",
+        "options": [
+            "A:它变得很滑。",
+            "B:它变得有光泽。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 237,
+        "questions": "我在咖啡里加了糖。,answer the effect",
+        "options": [
+            "A:咖啡闻起来很浓。",
+            "B:咖啡尝起来很甜。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 238,
+        "questions": "那人翻阅了报纸。,answer the effect",
+        "options": [
+            "A:他被纸划了。",
+            "B:他把文件撕碎了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 239,
+        "questions": "我用锤子敲钉子。,answer the effect",
+        "options": [
+            "A:钉子插进了木头里。",
+            "B:钉子生锈了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 240,
+        "questions": "鱼咬了线。,answer the effect",
+        "options": [
+            "A:渔夫把鱼收了过来。 ?。",
+            "B:渔夫重投了鱼线。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 241,
+        "questions": "这个少年上学很尴尬。,answer the cause",
+        "options": [
+            "A:她有粉刺。",
+            "B:她脱下了牙套。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 242,
+        "questions": "我的面部表情亮了起来。,answer the cause",
+        "options": [
+            "A:我收到了好消息。",
+            "B:我失去了耐心。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 243,
+        "questions": "我用毛巾擦了擦手。,answer the cause",
+        "options": [
+            "A:毛巾是湿的。",
+            "B:我的手湿了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 244,
+        "questions": "那人失去了在凳子上的平衡。,answer the cause",
+        "options": [
+            "A:凳子在他下面摇晃。",
+            "B:他把油漆洒在凳子上。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 245,
+        "questions": "队友们互相指责。,answer the cause",
+        "options": [
+            "A:他们输掉了比赛。",
+            "B:他们的教练取消了练习。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 246,
+        "questions": "我请求宽恕。,answer the cause",
+        "options": [
+            "A:我为我的错误感到遗憾。",
+            "B:我实现了我的目标。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 247,
+        "questions": "这个女人对她的约会感到厌烦了。,answer the cause",
+        "options": [
+            "A:他问她关于自己的问题。",
+            "B:他不停地谈论自己。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 248,
+        "questions": "女孩闪过一个微笑。,answer the effect",
+        "options": [
+            "A:她的脸颊发红了。",
+            "B:她出现酒窝了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 249,
+        "questions": "敌舰爆炸了。,answer the cause",
+        "options": [
+            "A:它越过了水雷。",
+            "B:它驶入港口。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 250,
+        "questions": "那人刺穿了他的脚。,answer the cause",
+        "options": [
+            "A:他走进一个水坑。",
+            "B:他踩在碎玻璃上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 251,
+        "questions": "侦探们在犯罪现场撒了粉来显示指纹。,answer the effect",
+        "options": [
+            "A:他们发现了凶手的身份。",
+            "B:他们在犯罪现场发现了武器。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 252,
+        "questions": "高速公路上交通很拥挤。,answer the effect",
+        "options": [
+            "A:我绕道而行。",
+            "B:我要求搭便车。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 253,
+        "questions": "国家经济下滑了。,answer the effect",
+        "options": [
+            "A:许多人生病了。",
+            "B:许多人面临失业。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 254,
+        "questions": "交通指挥向孩子们吹口哨。,answer the cause",
+        "options": [
+            "A:他们正要走进迎面而来的车流。",
+            "B:她从她的邻居认出了他们。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 255,
+        "questions": "我对我的朋友翻了白眼。,answer the cause",
+        "options": [
+            "A:他告诉了我真相。",
+            "B:他发表了讽刺性的评论。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 256,
+        "questions": "汽车汽油用完了。,answer the effect",
+        "options": [
+            "A:司机被困在路上。",
+            "B:司机接了一个搭便车的人。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 257,
+        "questions": "那女人开始分娩了。,answer the effect",
+        "options": [
+            "A:婴儿被接生了。",
+            "B:那女人孕吐了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 258,
+        "questions": "那人的帽子被吹掉了。,answer the cause",
+        "options": [
+            "A:他摘下帽子。",
+            "B:外面刮风。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 259,
+        "questions": "这个女孩参加了她同学的生日聚会。,answer the cause",
+        "options": [
+            "A:她收到了邀请。",
+            "B:她买了一件礼物。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 260,
+        "questions": "男孩的额头很热。,answer the effect",
+        "options": [
+            "A:他妈妈给他量了体温。",
+            "B:他妈妈带他去公园。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 261,
+        "questions": "那人喷了古龙水。,answer the cause",
+        "options": [
+            "A:他想给他的约会对象留下深刻印象。",
+            "B:他给头发涂了发胶。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 262,
+        "questions": "房子里的电停了。,answer the effect",
+        "options": [
+            "A:我找了手电筒。",
+            "B:我拿起一把铲子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 263,
+        "questions": "一家人搬进了一所更大的房子。,answer the cause",
+        "options": [
+            "A:儿子高中毕业。",
+            "B:母亲生了双胞胎。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 264,
+        "questions": "马拉松运动员保持缓慢的步伐。,answer the cause",
+        "options": [
+            "A:她想节省体力。",
+            "B:她看到了终点线。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 265,
+        "questions": "男孩踢了自动售货机。,answer the cause",
+        "options": [
+            "A:机器吐出零钱。",
+            "B:一袋薯条卡住了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 266,
+        "questions": "我朋友的狗死了。,answer the effect",
+        "options": [
+            "A:我翻了他一个白眼。",
+            "B:我给了他一个拥抱。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 267,
+        "questions": "商人的信用卡被拒绝了。,answer the effect",
+        "options": [
+            "A:他写了一张借据。",
+            "B:他用现金付了钱。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 268,
+        "questions": "那男人咒骂了一句。,answer the cause",
+        "options": [
+            "A:他剪了指甲。",
+            "B:他踢到了他的脚趾。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 269,
+        "questions": "那人为他的兄弟感到骄傲。,answer the cause",
+        "options": [
+            "A:他哥哥和父母发生了争执。",
+            "B:他哥哥被法学院录取了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 270,
+        "questions": "这个女孩想了解太阳系。,answer the effect",
+        "options": [
+            "A:她去了图书馆。",
+            "B:她看着星星。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 271,
+        "questions": "海报贴在墙上。,answer the cause",
+        "options": [
+            "A:我把海报放在门上面。",
+            "B:我在海报的背面贴了胶带。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 272,
+        "questions": "客户批准了建筑师的大楼计划。,answer the effect",
+        "options": [
+            "A:建筑师建造了这座建筑。",
+            "B:建筑师调整了计划。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 273,
+        "questions": "那人掉了勺子。,answer the cause",
+        "options": [
+            "A:他的手在颤抖。",
+            "B:他舔了舔勺子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 274,
+        "questions": "公司的首席执行官辞职了。,answer the effect",
+        "options": [
+            "A:董事会解散了公司。",
+            "B:董事会找到了他的继任者。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 275,
+        "questions": "我到课时迟到了。,answer the effect",
+        "options": [
+            "A:我在后排坐下了。",
+            "B:我走近讲台。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 276,
+        "questions": "那人从监狱里被释放了。,answer the cause",
+        "options": [
+            "A:他的家人付了他的保释金。",
+            "B:他袭击了一个同狱犯。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 277,
+        "questions": "这个家庭失去了所有的财产。,answer the cause",
+        "options": [
+            "A:他们卖掉了房子。",
+            "B:他们的房子着火了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 278,
+        "questions": "我踩在铝罐上。,answer the effect",
+        "options": [
+            "A:罐被回收了。",
+            "B:罐被压碎了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 279,
+        "questions": "这个女孩加入了辩论队。,answer the effect",
+        "options": [
+            "A:她学会了使用电脑。",
+            "B:她学会了沟通技巧。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 280,
+        "questions": "我的心情好转了。,answer the cause",
+        "options": [
+            "A:我听了音乐。",
+            "B:我洗了碗。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 281,
+        "questions": "慈善机构制定了一个筹款目标。,answer the effect",
+        "options": [
+            "A:他们给无家可归的人喂食。",
+            "B:他们举行了一场拍卖会。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 282,
+        "questions": "过山车从陡坡上速降下来。,answer the effect",
+        "options": [
+            "A:乘客们咯咯地笑。",
+            "B:乘客们尖叫着。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 283,
+        "questions": "我很生气。,answer the effect",
+        "options": [
+            "A:离开家时，我检查了邮箱。",
+            "B:离开家时，我砰地关上了门。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 284,
+        "questions": "那人想看日出。,answer the effect",
+        "options": [
+            "A:他向北旅行。",
+            "B:他起得很早。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 285,
+        "questions": "我把纸折起来。,answer the effect",
+        "options": [
+            "A:我回收了纸。",
+            "B:纸有折痕了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 286,
+        "questions": "这个国家经受了一场自然灾害。,answer the effect",
+        "options": [
+            "A:其他国家的领导人结成了联盟。",
+            "B:其他国家领导人送去了紧急救援。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 287,
+        "questions": "那男孩的衣服湿透了。,answer the cause",
+        "options": [
+            "A:他爬出了游泳池。",
+            "B:他掉进了游泳池。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 288,
+        "questions": "学生急忙读完这本书。,answer the cause",
+        "options": [
+            "A:它本来要归还给图书馆的。",
+            "B:他是从一个朋友那里借来的。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 289,
+        "questions": "罪犯被处决了。,answer the cause",
+        "options": [
+            "A:他被关进了监狱。",
+            "B:他被判犯有谋杀罪。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 290,
+        "questions": "阳光照进了房间。,answer the cause",
+        "options": [
+            "A:我打开窗帘。",
+            "B:我打开了门。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 291,
+        "questions": "我拉扯了那个骗子的头发。,answer the effect",
+        "options": [
+            "A:她的假发掉了。",
+            "B:她秃了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 292,
+        "questions": "编辑在手稿中改写了一句话。,answer the cause",
+        "options": [
+            "A:他发现手稿很有说服力。",
+            "B:他认为那句子不清楚。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 293,
+        "questions": "那女人取消了她的信用卡帐户。,answer the cause",
+        "options": [
+            "A:她意识到卡不见了。",
+            "B:她意识到卡过期了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 294,
+        "questions": "男人和女人坠入爱河。,answer the effect",
+        "options": [
+            "A:他们上了大学。",
+            "B:他们结婚了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 295,
+        "questions": "音乐太微弱了，听不见。,answer the effect",
+        "options": [
+            "A:我把音量调大了。",
+            "B:我创作了自己的歌曲。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 296,
+        "questions": "男孩的头发竖起了。,answer the cause",
+        "options": [
+            "A:女孩生气了。",
+            "B:女孩拉了它。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 297,
+        "questions": "虫子被压扁了。,answer the cause",
+        "options": [
+            "A:我给自己喷了驱虫剂。",
+            "B:我踩到了这个虫子。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 298,
+        "questions": "我睁开眼睛。,answer the cause",
+        "options": [
+            "A:我醒了。",
+            "B:我放松了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 299,
+        "questions": "我邻居的音乐在巨响。,answer the effect",
+        "options": [
+            "A:我请他把它关掉。",
+            "B:我向他借了CD。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 300,
+        "questions": "那人的家庭生活在贫困之中。,answer the cause",
+        "options": [
+            "A:他节俭地使用他的收入。",
+            "B:他挣的钱低于最低工资。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 301,
+        "questions": "这个学生从大学毕业了。,answer the effect",
+        "options": [
+            "A:他找工作了。",
+            "B:他开始一种爱好。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 302,
+        "questions": "艺术家把黄色的油漆混合进蓝色的油漆。,answer the effect",
+        "options": [
+            "A:油漆到处飞溅。",
+            "B:油漆变绿了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 303,
+        "questions": "我改变了谈话的话题。,answer the cause",
+        "options": [
+            "A:我用完了要谈的事情。",
+            "B:谈话变得紧张起来。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 304,
+        "questions": "我哥哥出院了。,answer the effect",
+        "options": [
+            "A:我欢迎他回家。",
+            "B:我冷淡地对待他。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 305,
+        "questions": "舞台上的帷幕拉开了。,answer the effect",
+        "options": [
+            "A:演出的第一幕开始了。",
+            "B:剧中的演员退出了舞台。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 306,
+        "questions": "人质服从了绑架者。,answer the cause",
+        "options": [
+            "A:绑架者威胁要伤害人质。",
+            "B:绑架者自己离开了人质。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 307,
+        "questions": "一阵隆隆声在舞台上回荡。,answer the cause",
+        "options": [
+            "A:音乐家轻拍他的脚。",
+            "B:音乐家敲击鼓。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 308,
+        "questions": "父母们冲到孩子的卧室。,answer the cause",
+        "options": [
+            "A:孩子从噩梦中惊醒尖叫。",
+            "B:那孩子害怕看床底下。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 309,
+        "questions": "那位妇女用手语交流。,answer the cause",
+        "options": [
+            "A:她是早产儿。",
+            "B:她生来就是聋子。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 310,
+        "questions": "该地区发生了干旱。,answer the effect",
+        "options": [
+            "A:水被污染了。",
+            "B:庄稼死了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 311,
+        "questions": "猫追赶那只鸟。,answer the effect",
+        "options": [
+            "A:那只鸟飞走了。",
+            "B:那只鸟捉到了虫子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 312,
+        "questions": "女孩换了学校。,answer the cause",
+        "options": [
+            "A:学校放学放暑假了。",
+            "B:她搬到了一个新城镇。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 313,
+        "questions": "工厂老板拒绝提高雇员的工资。,answer the effect",
+        "options": [
+            "A:老板任命了一位新经理。",
+            "B:雇员们继续罢工。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 314,
+        "questions": "这位领导人在对抗了他国家里的极端分子。,answer the effect",
+        "options": [
+            "A:极端分子影响了他。",
+            "B:极端分子暗杀了他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 315,
+        "questions": "我赤脚走在沙滩上。,answer the effect",
+        "options": [
+            "A:沙刺到我的脚。",
+            "B:海浪沿着海岸冲来。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 316,
+        "questions": "我半夜醒来，感觉很冷。,answer the effect",
+        "options": [
+            "A:我穿上运动裤。",
+            "B:我喝了一杯水。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 317,
+        "questions": "母亲让儿子安静下来。,answer the cause",
+        "options": [
+            "A:她的儿子笑了。",
+            "B:她儿子发牢骚。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 318,
+        "questions": "我的牛仔裤上有个洞。,answer the cause",
+        "options": [
+            "A:我拉起牛仔裤。",
+            "B:我在人行道上绊倒了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 319,
+        "questions": "男孩戴着牙套。,answer the effect",
+        "options": [
+            "A:他有一个空腔。",
+            "B:他的牙齿变得直了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 320,
+        "questions": "我昨天在健身房锻炼。,answer the effect",
+        "options": [
+            "A:我今天醒来时肌肉酸痛。",
+            "B:我今天醒来时喉咙痛。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 321,
+        "questions": "女孩在餐桌上互相耳语。,answer the effect",
+        "options": [
+            "A:其他学生坐在午餐桌旁。",
+            "B:在餐桌上的其他学生感到被冷落了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 322,
+        "questions": "孩子落在蹦床上。,answer the effect",
+        "options": [
+            "A:她飞回空中。",
+            "B:她决定尝试做一次翻转。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 323,
+        "questions": "我把信寄到信箱里了。,answer the effect",
+        "options": [
+            "A:邮局把信交付了。",
+            "B:邮局迅速发出了信。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 324,
+        "questions": "赌徒很自信。,answer the effect",
+        "options": [
+            "A:他赌了所有的钱。",
+            "B:他回家时已经破产了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 325,
+        "questions": "森林大火蔓延开来。,answer the cause",
+        "options": [
+            "A:风变得更强了。",
+            "B:纵火者被捕了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 326,
+        "questions": "这孩子把膝盖破了皮。,answer the effect",
+        "options": [
+            "A:他妈妈把他送到他的房间。",
+            "B:他的母亲在伤口上系了绷带。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 327,
+        "questions": "那人幸免于这种致命的疾病。,answer the cause",
+        "options": [
+            "A:他签了个要人。",
+            "B:他接受了器官移植。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 328,
+        "questions": "我喝了一口滚烫的咖啡。,answer the effect",
+        "options": [
+            "A:我咬了舌头。",
+            "B:我烫伤了舌头。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 329,
+        "questions": "编辑解雇了作者。,answer the cause",
+        "options": [
+            "A:这位作家避免在故事中出现偏见。",
+            "B:作者错过了一个重要的截止日期。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 330,
+        "questions": "我感到筋疲力尽。,answer the cause",
+        "options": [
+            "A:我睡了一整天。",
+            "B:我学习了一整天。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 331,
+        "questions": "医生诊断病人。,answer the cause",
+        "options": [
+            "A:她确定了病人的症状。",
+            "B:她给病人开了药。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 332,
+        "questions": "我抓伤了皮肤。,answer the cause",
+        "options": [
+            "A:这是汗水。",
+            "B:感觉很痒。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 333,
+        "questions": "那人接受了紧急手术。,answer the cause",
+        "options": [
+            "A:他发脾气了。",
+            "B:他心脏病发作。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 334,
+        "questions": "那人的手臂肌肉鼓了起来。,answer the cause",
+        "options": [
+            "A:他弯曲了双臂。",
+            "B:他揉了揉手臂。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 335,
+        "questions": "那人扬起眉毛。,answer the cause",
+        "options": [
+            "A:他很惊讶。",
+            "B:他感到气馁。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 336,
+        "questions": "我宽恕了同事的愚蠢错误。,answer the cause",
+        "options": [
+            "A:我相信他的意图是好的。",
+            "B:我相信他更清楚。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 337,
+        "questions": "那人戒烟了。,answer the effect",
+        "options": [
+            "A:他开始多锻炼。",
+            "B:他开始早起。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 338,
+        "questions": "那女人用拳头打袭击者的鼻子。,answer the effect",
+        "options": [
+            "A:袭击者的身体没有了生命迹象。",
+            "B:攻击者开始流血。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 339,
+        "questions": "飞镖错过了牛眼。,answer the cause",
+        "options": [
+            "A:那人没有中目标。",
+            "B:那人输掉了比赛。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 340,
+        "questions": "房主要求一个灭害员到他家来。,answer the cause",
+        "options": [
+            "A:他在地下室发现了老鼠。",
+            "B:他在房间里养了一个蚂蚁农场。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 341,
+        "questions": "我建议我的客人出去吃饭。,answer the cause",
+        "options": [
+            "A:我太累了，什么都准备不了。",
+            "B:我的客人逗留过于久了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 342,
+        "questions": "女孩发现她的哥哥在读她的日记。,answer the effect",
+        "options": [
+            "A:她开始把日记藏起来。",
+            "B:她收到一本新日记。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 343,
+        "questions": "那个女人缺钱付房租。,answer the effect",
+        "options": [
+            "A:她加班加点。",
+            "B:她辞职了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 344,
+        "questions": "孩子的手很快退缩了。,answer the cause",
+        "options": [
+            "A:他碰了热炉子。",
+            "B:他拍了拍小狗的头。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 345,
+        "questions": "公司希望衡量客户满意度。,answer the effect",
+        "options": [
+            "A:他们为新客户提供折扣。",
+            "B:他们向客户分发了一份调查。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 346,
+        "questions": "木地板被划伤。,answer the cause",
+        "options": [
+            "A:男孩把垫子从沙发上扔了出去。",
+            "B:男孩把椅子拖过地板。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 347,
+        "questions": "我遮住了我的脸。,answer the cause",
+        "options": [
+            "A:我的敌人嘲笑我。",
+            "B:我的敌人举起拳头。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 348,
+        "questions": "这座著名的雕像被烧毁了。,answer the cause",
+        "options": [
+            "A:它被闪电击中了。",
+            "B:人们来崇拜它。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 349,
+        "questions": "我把水果忘在桌子上了。,answer the effect",
+        "options": [
+            "A:水果脱落种子。",
+            "B:苍蝇挤满了那水果。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 350,
+        "questions": "芭蕾舞选手撕裂了系带。,answer the cause",
+        "options": [
+            "A:她指着她的脚趾。",
+            "B:她扭伤了脚踝。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 351,
+        "questions": "孩子的鞋带解开了。,answer the cause",
+        "options": [
+            "A:他学会了如何把他们绑起来。",
+            "B:他在操场上跑来跑去。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 352,
+        "questions": "我迷上了这本书。,answer the effect",
+        "options": [
+            "A:我还了书。",
+            "B:我忘记了时间。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 353,
+        "questions": "这个人有着和父母相似的信仰。,answer the cause",
+        "options": [
+            "A:他的父母影响了他。",
+            "B:他的父母抛弃了他。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 354,
+        "questions": "汽车逐渐减速停了下来。,answer the cause",
+        "options": [
+            "A:汽油用完了。",
+            "B:司机睡着了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 355,
+        "questions": "那人在阳光下吃了冰淇淋。,answer the effect",
+        "options": [
+            "A:冰淇淋失去了味道。",
+            "B:冰淇淋从蛋卷上滴下来。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 356,
+        "questions": "我把艺术品挂在房间里。,answer the cause",
+        "options": [
+            "A:地毯看起来很脏。",
+            "B:墙壁看起来光秃秃的。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 357,
+        "questions": "我很早就下班了。,answer the cause",
+        "options": [
+            "A:我头疼。",
+            "B:我老板召开了一个会议。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 358,
+        "questions": "小狗弄脏了地毯。,answer the effect",
+        "options": [
+            "A:主人骂了小狗。",
+            "B:主人给小狗一个款待。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 359,
+        "questions": "我向我的朋友道歉了。,answer the effect",
+        "options": [
+            "A:我的朋友原谅了我。",
+            "B:我的朋友很生气。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 360,
+        "questions": "那人在人群中脱颖而出。,answer the cause",
+        "options": [
+            "A:他背着一个背包。",
+            "B:他穿着一件霓虹灯背心。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 361,
+        "questions": "证人在宣誓后撒谎。,answer the effect",
+        "options": [
+            "A:他完成了他的证词。",
+            "B:他被指控作伪证。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 362,
+        "questions": "那女人染了头发。,answer the cause",
+        "options": [
+            "A:她想要一个新的面貌。",
+            "B:她想融入其中。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 363,
+        "questions": "这些移民是非法居住在这个国家的。,answer the effect",
+        "options": [
+            "A:他们找到了工作。",
+            "B:他们被驱逐出境了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 364,
+        "questions": "公共发言人开了个玩笑。,answer the effect",
+        "options": [
+            "A:观众笑了起来。",
+            "B:观众站了起来。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 365,
+        "questions": "我看着太阳。,answer the effect",
+        "options": [
+            "A:太阳使我失明。",
+            "B:太阳晒黑了我的皮肤。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 366,
+        "questions": "我觉得很无聊。,answer the effect",
+        "options": [
+            "A:我哼了一声。",
+            "B:我打哈欠了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 367,
+        "questions": "牛排很难切。,answer the cause",
+        "options": [
+            "A:刀子很钝。",
+            "B:牛排是生的。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 368,
+        "questions": "那女人宣布破产了。,answer the cause",
+        "options": [
+            "A:她收到了赡养费。",
+            "B:她获得了巨额债务。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 369,
+        "questions": "我朋友公寓里的灯亮着。,answer the effect",
+        "options": [
+            "A:我想知道他是否出去了。",
+            "B:我决定去拜访他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 370,
+        "questions": "我把花放在鼻子底下。,answer the effect",
+        "options": [
+            "A:花瓣从花瓣上脱落。",
+            "B:我闻到了花的香味。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 371,
+        "questions": "女人感到怀旧。,answer the cause",
+        "options": [
+            "A:她遇到了一个儿时的朋友。",
+            "B:她对孩子们大喊大叫。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 372,
+        "questions": "学生拖延文章。,answer the effect",
+        "options": [
+            "A:他早早地提交了论文。",
+            "B:他提交的文件不完整。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 373,
+        "questions": "我的车抛锚了。,answer the effect",
+        "options": [
+            "A:我去了购物中心。",
+            "B:我给一个机械师打了电话。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 374,
+        "questions": "我丢弃了那张纸条。,answer the cause",
+        "options": [
+            "A:是匿名的。",
+            "B:这是难以辨认的。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 375,
+        "questions": "那只鸟拍打着翅膀。,answer the effect",
+        "options": [
+            "A:它产卵了。",
+            "B:它向上上升。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 376,
+        "questions": "我把车停在车道上。,answer the cause",
+        "options": [
+            "A:车库是开着的。",
+            "B:车库满了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 377,
+        "questions": "罪犯用枪瞄准他的受害者。,answer the effect",
+        "options": [
+            "A:罪犯放下了枪。",
+            "B:受害者举起双手。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 378,
+        "questions": "我期待着周末。,answer the cause",
+        "options": [
+            "A:我计划参加我叔叔的葬礼。",
+            "B:我计划参加我朋友的婚礼。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 379,
+        "questions": "我忘记了时间。,answer the cause",
+        "options": [
+            "A:我在做白日梦。",
+            "B:我恶心。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 380,
+        "questions": "文件打印出来后不可辨认。,answer the cause",
+        "options": [
+            "A:打印机墨水不足。",
+            "B:印刷品没有纸了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 381,
+        "questions": "体育场奏起了国歌。,answer the effect",
+        "options": [
+            "A:球迷们转向国旗。",
+            "B:球迷们冲了场。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 382,
+        "questions": "蘸料尝起来很平淡。,answer the effect",
+        "options": [
+            "A:我把它端上桌。",
+            "B:我放了盐。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 383,
+        "questions": "我把纸巾放在溢出处。,answer the effect",
+        "options": [
+            "A:毛巾吸收了液体。",
+            "B:溢出物留下了粘性残留物。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 384,
+        "questions": "那个女人在看书时被打断了。,answer the effect",
+        "options": [
+            "A:她在那页放上了书签。",
+            "B:她重读了这本书。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 385,
+        "questions": "飞机遇上了一些湍流。,answer the effect",
+        "options": [
+            "A:那人系紧了安全带。",
+            "B:那人向窗外望去。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 386,
+        "questions": "男孩退缩了。,answer the cause",
+        "options": [
+            "A:女孩不理他。",
+            "B:女孩戳了他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 387,
+        "questions": "医生给了病人一个假肢。,answer the cause",
+        "options": [
+            "A:他们截肢了她的腿。",
+            "B:他们监控着她的生命体征。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 388,
+        "questions": "男孩捏了女孩的肘部。,answer the effect",
+        "options": [
+            "A:她耸了耸肩膀朝他。",
+            "B:她猛地把手臂从他身上拉开。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 389,
+        "questions": "我向朋友请教。,answer the cause",
+        "options": [
+            "A:我重视他的意见。",
+            "B:我知道我是对的。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 390,
+        "questions": "男孩踩在泥里。,answer the effect",
+        "options": [
+            "A:泥粘在他的鞋子上。",
+            "B:泥浆溅到了他的脸。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 391,
+        "questions": "这个镇下了几英寸的雪。,answer the effect",
+        "options": [
+            "A:学校停课了。",
+            "B:人们躲在地下。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 392,
+        "questions": "员工的轮班结束。,answer the effect",
+        "options": [
+            "A:他回家过一天。",
+            "B:他威胁要辞职。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 393,
+        "questions": "树损坏了房子。,answer the cause",
+        "options": [
+            "A:树倒在屋顶上。",
+            "B:树在后院被荫覆盖。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 394,
+        "questions": "木头劈成两半。,answer the cause",
+        "options": [
+            "A:我把木头堆在壁炉里。",
+            "B:我挥斧头砍到木头里。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 395,
+        "questions": "家人向这对夫妇表示祝贺。,answer the cause",
+        "options": [
+            "A:这对夫妇宣布他们要分居了。",
+            "B:这对夫妇宣布他们要生孩子了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 396,
+        "questions": "那个女孩给男孩送了个情人节礼物。,answer the cause",
+        "options": [
+            "A:她喜欢他。",
+            "B:她吻了他。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 397,
+        "questions": "我对我的朋友的陈述点头。,answer the cause",
+        "options": [
+            "A:我很困惑。",
+            "B:我同意他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 398,
+        "questions": "朋友们掷硬币。,answer the cause",
+        "options": [
+            "A:他们想找到一个妥协。",
+            "B:他们想做出一个公平的决定。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 399,
+        "questions": "厨房的计时器熄了。,answer the effect",
+        "options": [
+            "A:那人把杂货卸到冰箱里。",
+            "B:那人把披萨从烤箱里拿出来。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 400,
+        "questions": "这个女人设定了一个雄心勃勃的目标。,answer the effect",
+        "options": [
+            "A:她松懈下来。",
+            "B:她工作很努力。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 401,
+        "questions": "那个有钱人因年老而死。,answer the effect",
+        "options": [
+            "A:他的儿子惹上了法律麻烦。",
+            "B:他的儿子继承了他的财产。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 402,
+        "questions": "那女人踩着火焰。,answer the effect",
+        "options": [
+            "A:火焰熄火了。",
+            "B:烟雾从火焰中冒出来。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 403,
+        "questions": "那个女人的车在商店里。,answer the cause",
+        "options": [
+            "A:她的驾驶执照被吊销了。",
+            "B:她出了车祸。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 404,
+        "questions": "我睡过了闹钟。,answer the effect",
+        "options": [
+            "A:我做了早餐。",
+            "B:我错过了早餐。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 405,
+        "questions": "公众人物从豪华轿车里出来。,answer the effect",
+        "options": [
+            "A:照相机朝他的方向闪着闪光灯。",
+            "B:他的家人出席了记者招待会。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 406,
+        "questions": "那女人在浴缸里逗留。,answer the effect",
+        "options": [
+            "A:洗澡水变得很微温。",
+            "B:洗澡水从浴缸里流出。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 407,
+        "questions": "这个大学生想在校园里认识其他学生。,answer the effect",
+        "options": [
+            "A:他加入了一个兄弟会。",
+            "B:他主修工程学。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 408,
+        "questions": "我抬起沙发垫子。,answer the cause",
+        "options": [
+            "A:我在寻找零钱。",
+            "B:我正在重新布置客厅。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 409,
+        "questions": "黄蜂飞向男孩。,answer the effect",
+        "options": [
+            "A:男孩跑了。",
+            "B:男孩摘了一朵花。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 410,
+        "questions": "这名妇女被判犯有轻罪。,answer the effect",
+        "options": [
+            "A:她被判从事社区服务。",
+            "B:她被关在死囚牢房里。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 411,
+        "questions": "我把糖搅拌到热茶里。,answer the effect",
+        "options": [
+            "A:茶蒸了。",
+            "B:糖溶解了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 412,
+        "questions": "老兵走路一跛一拐。,answer the cause",
+        "options": [
+            "A:他被征召参战。",
+            "B:他在战斗中受伤了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 413,
+        "questions": "罪犯从警察身边逃走了。,answer the effect",
+        "options": [
+            "A:警察照顾了受害者。",
+            "B:警察追赶罪犯。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 414,
+        "questions": "笔记本电脑无法打开。,answer the cause",
+        "options": [
+            "A:我掉了。",
+            "B:我给它充了电。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 415,
+        "questions": "那女人的衣橱没有空间了。,answer the cause",
+        "options": [
+            "A:她买了一个宽敞的衣柜。",
+            "B:她把洗好的衣服折起来。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 416,
+        "questions": "那人很伤心。,answer the cause",
+        "options": [
+            "A:他的妻子生了孩子。",
+            "B:他的妻子离开了他。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 417,
+        "questions": "那人获得了学位。,answer the effect",
+        "options": [
+            "A:他有资格胜任他想要的工作。",
+            "B:他的工作机会被撤销了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 418,
+        "questions": "那人的声音在礼堂里清晰可见。,answer the cause",
+        "options": [
+            "A:他向观众致意。",
+            "B:他讲了话筒。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 419,
+        "questions": "我把一枚硬币扔进喷泉里。,answer the effect",
+        "options": [
+            "A:硬币沉到底部。",
+            "B:硬币折断成一半了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 420,
+        "questions": "球员把球打向洞。,answer the effect",
+        "options": [
+            "A:球进了洞。",
+            "B:球退回到球员那儿。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 421,
+        "questions": "我在阁楼的灰尘中呼吸。,answer the effect",
+        "options": [
+            "A:我打嗝了。",
+            "B:我打喷嚏。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 422,
+        "questions": "商店收银员叫保安。,answer the cause",
+        "options": [
+            "A:顾客使用假币。",
+            "B:客户没关前灯。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 423,
+        "questions": "我把垃圾拿出来。,answer the cause",
+        "options": [
+            "A:垃圾使厨房闻起来难闻。",
+            "B:我不小心扔掉了我的购物清单。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 424,
+        "questions": "一家人去了动物园。,answer the effect",
+        "options": [
+            "A:孩子们赞叹动物。",
+            "B:孩子们追逐动物。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 425,
+        "questions": "那人的呼吸很响。,answer the cause",
+        "options": [
+            "A:他的肾衰竭了。",
+            "B:他的肺充血了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 426,
+        "questions": "我有一张音乐会的票。,answer the effect",
+        "options": [
+            "A:我向我的朋友询问去会场的方向。",
+            "B:我问我的朋友他是否有兴趣去。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 427,
+        "questions": "房子里的空调坏了。,answer the effect",
+        "options": [
+            "A:我拿出了毯子。",
+            "B:我打开了窗户。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 428,
+        "questions": "男孩的背部疼痛。,answer the cause",
+        "options": [
+            "A:他的背包是开着的。",
+            "B:他的背包很重。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 429,
+        "questions": "我给妈妈买了一件礼物。,answer the cause",
+        "options": [
+            "A:我给她烤了个蛋糕。",
+            "B:那是她的生日。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 430,
+        "questions": "花园里的水仙花被毁坏了。,answer the cause",
+        "options": [
+            "A:一条蜜蜂刺伤了园丁。",
+            "B:松鼠挖出了它的根。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 431,
+        "questions": "我点了根火柴。,answer the effect",
+        "options": [
+            "A:火焰熄灭了。",
+            "B:火柴产生了火焰。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 432,
+        "questions": "争议双方达成和解。,answer the cause",
+        "options": [
+            "A:他们不想在法庭上辩论。",
+            "B:他们想修复他们的个人关系。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 433,
+        "questions": "孩子们被送到孤儿院。,answer the cause",
+        "options": [
+            "A:他们的父母死了。",
+            "B:他们的父母宠坏了他们。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 434,
+        "questions": "一块陨石落在了海里。,answer the effect",
+        "options": [
+            "A:海啸发生了。",
+            "B:开始下冰雹。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 435,
+        "questions": "徒步旅行者遇到了一条毒蛇。,answer the effect",
+        "options": [
+            "A:她脱水了。",
+            "B:她惊慌失措。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 436,
+        "questions": "烤箱变热了。,answer the cause",
+        "options": [
+            "A:我把烤箱打开。",
+            "B:我把盘子放在烤箱里。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 437,
+        "questions": "我挤压了柠檬楔子。,answer the effect",
+        "options": [
+            "A:柠檬发霉了。",
+            "B:柠檬喷出。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 438,
+        "questions": "这个国家发现了新的土地。,answer the effect",
+        "options": [
+            "A:这个国家放弃了这块土地。",
+            "B:这个国家殖民了这片土地。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 439,
+        "questions": "玻璃杯从桌子上掉下来。,answer the effect",
+        "options": [
+            "A:它碎了一地。",
+            "B:它落在一堆衣服上。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 440,
+        "questions": "桌子摇晃着。,answer the cause",
+        "options": [
+            "A:地板不平。",
+            "B:地板很滑。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 441,
+        "questions": "父亲发现他的儿子在撒谎。,answer the effect",
+        "options": [
+            "A:他的儿子承认了真相。",
+            "B:父亲信任他的儿子。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 442,
+        "questions": "那人的头因疼痛而颤动。,answer the effect",
+        "options": [
+            "A:他服用了咳嗽糖浆。",
+            "B:他服用了阿司匹林。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 443,
+        "questions": "火车慢下来了。,answer the cause",
+        "options": [
+            "A:它正接近车站。",
+            "B:它落后于计划。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 444,
+        "questions": "那人接受了治疗。,answer the cause",
+        "options": [
+            "A:他的家族有精神病史。",
+            "B:他被诊断患有抑郁症。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 445,
+        "questions": "那女人抓住她的喉咙。,answer the cause",
+        "options": [
+            "A:她吞下了她的食物。",
+            "B:她被食物呛住了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 446,
+        "questions": "那女人嗓子疼。,answer the effect",
+        "options": [
+            "A:她的声音听起来很刺耳。",
+            "B:她说话带有口音。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 447,
+        "questions": "狗看着桌上多汁的牛排。,answer the effect",
+        "options": [
+            "A:它流口水。",
+            "B:它躺下了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 448,
+        "questions": "这个女人的生意成功了。,answer the effect",
+        "options": [
+            "A:她解雇了她的员工。",
+            "B:她变得富有了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 449,
+        "questions": "学生们离开了教室。,answer the cause",
+        "options": [
+            "A:铃响了。",
+            "B:老师布置了作业。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 450,
+        "questions": "那个女人声称她看见了鬼。,answer the effect",
+        "options": [
+            "A:她的熟人表示怀疑。",
+            "B:她的熟人理解她。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 451,
+        "questions": "那人失去了听力。,answer the cause",
+        "options": [
+            "A:他差点淹死在海里。",
+            "B:他差点在爆炸中丧生。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 452,
+        "questions": "孩子放开气球串。,answer the effect",
+        "options": [
+            "A:气球放气了。",
+            "B:气球升到空中。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 453,
+        "questions": "那人失去了说话的能力。,answer the cause",
+        "options": [
+            "A:他中风了。",
+            "B:他深吸了一口气。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 454,
+        "questions": "那女人在人行道上绊倒了。,answer the cause",
+        "options": [
+            "A:水泥有裂缝。",
+            "B:她听到她的名字被叫了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 455,
+        "questions": "那人加农炮式跳入了池子。,answer the effect",
+        "options": [
+            "A:救生员在他之后跳了进来。",
+            "B:那人把救生员浸湿了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 456,
+        "questions": "我服用了抗生素。,answer the effect",
+        "options": [
+            "A:我的感染已经清除了。",
+            "B:我的感染蔓延了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 457,
+        "questions": "交通灯变黄了。,answer the effect",
+        "options": [
+            "A:司机踩了刹车。",
+            "B:司机按响了喇叭。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 458,
+        "questions": "塑料容器融化了。,answer the cause",
+        "options": [
+            "A:我把容器浸泡在温水中。",
+            "B:我把容器放在热炉子上。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 459,
+        "questions": "汽车凹陷了。,answer the cause",
+        "options": [
+            "A:司机撞到了电线杆上。",
+            "B:司机闯了红灯。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 460,
+        "questions": "这个男孩通宵学习。,answer the effect",
+        "options": [
+            "A:他跳过了考试。",
+            "B:他通过了考试。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 461,
+        "questions": "小男孩紧紧抓住池子边缘。,answer the cause",
+        "options": [
+            "A:他害怕学习游泳。",
+            "B:救生员在值班。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 462,
+        "questions": "我把手放在胸前。,answer the effect",
+        "options": [
+            "A:我感觉到我的心跳。",
+            "B:我的心率加快了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 463,
+        "questions": "我办公室旁边的大楼正在建设中。,answer the effect",
+        "options": [
+            "A:我的办公室很拥挤。",
+            "B:我的办公室很吵。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 464,
+        "questions": "这个家庭想了解他们的新邻居。,answer the effect",
+        "options": [
+            "A:一家人邀请邻居过来吃饭。",
+            "B:一家人从院子里向邻居们挥手致意。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 465,
+        "questions": "水从水池里溅起来。,answer the cause",
+        "options": [
+            "A:游泳者跳进游泳池。",
+            "B:游泳者在游泳池里漂浮。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 466,
+        "questions": "我咬了一片西瓜。,answer the effect",
+        "options": [
+            "A:我不小心吞下了一颗种子。",
+            "B:我不小心咬破了牙齿。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 467,
+        "questions": "男孩被绊倒了。,answer the cause",
+        "options": [
+            "A:他的夹克被解开了。",
+            "B:他的鞋带解开了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 468,
+        "questions": "那女人把耳塞插了。,answer the cause",
+        "options": [
+            "A:她被噪音分散了注意力。",
+            "B:她的耳朵被刺穿了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 469,
+        "questions": "我重新加了水瓶。,answer the cause",
+        "options": [
+            "A:我喝了它里所有的水。",
+            "B:我把它放在冰箱里了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 470,
+        "questions": "这个电视节目受到审查。,answer the cause",
+        "options": [
+            "A:它包含粗俗的语言。",
+            "B:它有一个复杂的情节。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 471,
+        "questions": "船失事了。,answer the effect",
+        "options": [
+            "A:船员们淹死了。",
+            "B:船员们遇到了海盗。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 472,
+        "questions": "男孩被这个谜语难住了。,answer the effect",
+        "options": [
+            "A:他解开了谜语。",
+            "B:他要求一个提示。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 473,
+        "questions": "电话铃响了。,answer the effect",
+        "options": [
+            "A:那人挂断了电话。",
+            "B:那人拿起电话。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 474,
+        "questions": "那个女人盯着我看。,answer the effect",
+        "options": [
+            "A:我拥抱了她。",
+            "B:我感觉不舒服。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 475,
+        "questions": "这群人离开了博物馆。,answer the cause",
+        "options": [
+            "A:他们拍了展品的照片。",
+            "B:他们看了所有的展品。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 476,
+        "questions": "那人和我争吵了。,answer the effect",
+        "options": [
+            "A:我的朋友把我介绍给那个人。",
+            "B:我的朋友支持我。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 477,
+        "questions": "我自行车上的轮胎没气了。,answer the effect",
+        "options": [
+            "A:我把空气注入轮胎里。",
+            "B:我换了自行车上的齿轮。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 478,
+        "questions": "女孩脸色苍白。,answer the effect",
+        "options": [
+            "A:她父亲给她读了一个故事。",
+            "B:她的父亲感觉了下她的额头。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 479,
+        "questions": "钢笔墨水用完了。,answer the effect",
+        "options": [
+            "A:我用了一支铅笔。",
+            "B:我签了名。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 480,
+        "questions": "那人被拒绝贷款。,answer the cause",
+        "options": [
+            "A:他负债累累。",
+            "B:他开始做生意。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 481,
+        "questions": "那个女孩放学后呆在家里。,answer the cause",
+        "options": [
+            "A:她有水痘。",
+            "B:她喜欢学数学。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 482,
+        "questions": "垃圾袋装满了。,answer the effect",
+        "options": [
+            "A:我把它带到垃圾箱里。",
+            "B:我把它扔到水槽里了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 483,
+        "questions": "我把地毯吸了个尘。,answer the cause",
+        "options": [
+            "A:我的室友大打出手。",
+            "B:我的狗掉毛了。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 484,
+        "questions": "那人发脾气了。,answer the effect",
+        "options": [
+            "A:他关掉了电脑。",
+            "B:他把一把椅子扔过房间。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 485,
+        "questions": "那女孩把一根树枝扔进篝火里。,answer the effect",
+        "options": [
+            "A:树枝烧焦了。",
+            "B:火熄火了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 486,
+        "questions": "那人从淋浴里出来。,answer the cause",
+        "options": [
+            "A:热水没了。",
+            "B:他找不到毛巾。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 487,
+        "questions": "父母希望他们的孩子上大学。,answer the effect",
+        "options": [
+            "A:他们拨出一个储蓄基金作为学费。",
+            "B:他们鼓励他们的孩子在外面玩。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 488,
+        "questions": "那人解开了鞋子。,answer the effect",
+        "options": [
+            "A:鞋子松了。",
+            "B:鞋子穿破了。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 489,
+        "questions": "那人吃了一半的主菜。,answer the effect",
+        "options": [
+            "A:他把剩菜冷藏。",
+            "B:他保存了食谱。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 490,
+        "questions": "我的脚踝肿了。,answer the effect",
+        "options": [
+            "A:我冰上放了冰。",
+            "B:我擦了洗液。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 491,
+        "questions": "我的办公室门是开着的。,answer the effect",
+        "options": [
+            "A:我在办公桌前和同事交谈。",
+            "B:我无意中听到大厅里的谈话。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 492,
+        "questions": "我不得不排队等候。,answer the effect",
+        "options": [
+            "A:我坐了下来。",
+            "B:我浏览了一本杂志。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 493,
+        "questions": "那人向苍蝇用力击打。,answer the effect",
+        "options": [
+            "A:苍蝇嗡嗡飞走。",
+            "B:苍蝇静止不动。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 494,
+        "questions": "那人写了一份遗嘱。,answer the cause",
+        "options": [
+            "A:他快死了。",
+            "B:他是个寡妇。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 495,
+        "questions": "赛跑者感觉到他的竞争对手在逼近。,answer the effect",
+        "options": [
+            "A:他退出了比赛。",
+            "B:他加快了步伐。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 496,
+        "questions": "我仔细考虑了这个问题。,answer the effect",
+        "options": [
+            "A:我征求了意见。",
+            "B:我想出了一个解决办法。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 497,
+        "questions": "旅行者走在摇摇欲坠的吊桥上。,answer the effect",
+        "options": [
+            "A:他感到害怕。",
+            "B:他欣喜若狂。"
+        ],
+        "answer": "A"
+    },
+    {
+        "rowIdx": 498,
+        "questions": "那人预料到球队会获胜。,answer the effect",
+        "options": [
+            "A:他会见了他的朋友看比赛。",
+            "B:他和朋友们打赌。"
+        ],
+        "answer": "B"
+    },
+    {
+        "rowIdx": 499,
+        "questions": "那男孩睡不着。,answer the effect",
+        "options": [
+            "A:他把闹钟定了。",
+            "B:他数着羊。"
+        ],
+        "answer": "B"
+    }
+]

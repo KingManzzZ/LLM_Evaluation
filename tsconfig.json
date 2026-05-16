@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./src"],
+    "types": ["html2pdf.js"] // 添加类型引用
+  },
+  "include": [
+    "src/**/*.ts", 
+    "src/**/*.d.ts", 
+    "src/**/*.vue",
+    "shims-html2pdf.d.ts" // 包含声明文件
+  ]
+}
